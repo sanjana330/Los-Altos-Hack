@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body{
+				background-color: #ffe6e6;
+				}
+			h1{
+				color: #ff4d4d;
+			}
+			input{
+				padding: 10px;
+				border-radius: 4px;
+			}
+			button#submitButton{
+				color: red;
+				font-weight: bold;
+			}
+		</style>
+		<center>
+		<h1>American High School Map</h1>
+		</center>
+	</head>
+	<body>
+		<center>
+		<img src="http://americanhighschoolclubs.weebly.com/uploads/1/1/8/2/11825976/1758041_orig.jpg" alt="http://americanhighschoolclubs.weebly.com" style="width:800px;height 800px;"> 
+		</center>
+	</body>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+</html>
